@@ -1,0 +1,96 @@
+body {
+	/*background-image: url("../images/background.jpg");*/
+background-color: white;
+}
+
+h1{
+	/*background-color: orange;*/
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	/*border: solid 1px #ddd;*/
+}
+h3{
+margin-bottom: 5px;
+margin-top: 5px;	
+}
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#instructions {
+	background-color: white;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#guessingNumber {
+	background-color: red;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	/*margin-top: 20px;*/
+	border: solid 1px #ddd
+}
+
+#scoreboard {
+	/*background-color: #03A9F4;*/
+	display: inline-block;
+	padding: 5px 100px 5px 15px;
+	/*margin-top: 20px;*/
+	/*margin-left: 20px;*/
+	/*width: 100%;*/
+	/*border: solid 1px #ddd*/
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}ß
+
+.crystalImage {
+	height: 111px;
+	/*border: solid 1px #272525;*/
+	margin-left: 10px
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+.jumbotron{
+	height: 150px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#yts {
+	background: gray;
+	color: white;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
+.panelAlign{
+	float: left;
+	width: 100%;
+}
+.panel-body{
+
+
+}
